@@ -1,8 +1,8 @@
-<h3 align="center">braindead self taught programmer</h3>
+<h2 align="center">braindead self taught programmer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapateropv&label=Profile%20views&color=0e75b6&style=flat" alt="zapateropv" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
