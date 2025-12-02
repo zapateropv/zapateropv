@@ -11,3 +11,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapateropv&show_icons=true&locale=en&layout=compact" alt="zapateropv" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zapateropv&show_icons=true&locale=en" alt="zapateropv" /></p>
