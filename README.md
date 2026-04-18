@@ -2,4 +2,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapateropv&show_icons=true&locale=en&layout=compact&hide=html,css,c%2B%2B" alt="zapateropv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zapateropv&show_icons=true&locale=en&layout=compact&hide=html,css" alt="zapateropv" /></p>
